@@ -41,6 +41,6 @@ function analisarSenha($senha) {
     ];
 }
 
-print_r(analisarSenha('arthurlindo1234'));
-print_r(analisarSenha('gomeslegal00'));
-print_r(analisarSenha('professoricaro1234'));
+print_r(analisarSenha('enzovegini'));
+print_r(analisarSenha('enzoVegini123'));
+print_r(analisarSenha('mengo1234'));
